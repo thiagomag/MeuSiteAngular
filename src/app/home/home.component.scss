@@ -1,0 +1,32 @@
+p {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2rem;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.imagem-principal img{
+  filter: drop-shadow(8px 8px 10px gray);
+  border-style: outset;
+  border-width: thick;
+  margin: auto;
+  padding: 10px;
+}
+
+.imagem-principal {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.principal {
+	padding: 3em 0;
+	width: 940px;
+	margin: 0 auto;
+}
+
+.principal h2 {
+	margin: 0 0 1em;
+}
